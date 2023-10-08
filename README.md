@@ -9,7 +9,7 @@ The email client saves every email sent in the form of objects (object serializa
 
 an application that enables the serialization of emails sent via that program and supports sending emails without using a browser.Using this application, emails can be sent to various recipients based on their roles.
 
-##Scope
+## Scope
 
 -The user interacts with the source file EmailClient.
 -Java mail was utilized for email sending.
